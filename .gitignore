@@ -8,3 +8,4 @@ foo.*
 data
 *.toml
 *.json
+*.DS_Store

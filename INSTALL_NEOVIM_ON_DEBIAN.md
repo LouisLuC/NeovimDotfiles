@@ -21,9 +21,7 @@ cpack -G DEB
 # which need to be overwrited
 sudo dpkg -i nvim-linux64.deb
 ```
-```
-```
 
 # Reference
-[reddit - How do I install latest neovim version on Ubuntu?
-](https://www.reddit.com/r/neovim/comments/zbjapi/how_do_i_install_latest_neovim_version_on_ubuntu/)
+[reddit - Neovim on debian?
+](https://www.reddit.com/r/debian/comments/188d3wc/neovim_on_debian/)

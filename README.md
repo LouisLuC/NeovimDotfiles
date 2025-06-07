@@ -22,5 +22,4 @@ nvim
 # in neovim, waiting for Lazyvim install plugins and check dependencies via LazyHealth
 :LazyHealth
 ```
-```
 
